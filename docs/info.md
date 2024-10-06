@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+The FPGA is built using the OpenFPGA Framework which is taking an abstract description of a FPGA architecture to generate the netlist and the programming tool.
 
 ## How to test
 
-Explain how to use your project
+TODO: Provide Bitstream with an example design.
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+Device to program the FPGA
